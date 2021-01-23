@@ -4,5 +4,8 @@ files:
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6541#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 23 Jan 2021 07:06:19 UTC
 record: -1
